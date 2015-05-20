@@ -1,5 +1,5 @@
 === Hello Security ===
-Contributors: Michele Butcher
+Contributors: m_butcher
 Donate link: http://cantspeakgeek.com
 Tags: security, security best practice, hello
 Requires at least: 3.0

@@ -9,7 +9,7 @@ Plugin URI: http://cantspeakgeek.com/hello-security/
 Description: Built using the base code of the popular plugin, Hello Dolly, this plugin gives
 users the ability to get security best practice tips shown on their admin panel.
 Version: 1.0
-Author: Michele Butcher
+Author: m_butcher
 Author URI: http://cantspeakgeek.com/
 License: GPLv2
 */
